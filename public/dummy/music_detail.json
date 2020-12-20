@@ -1,0 +1,159 @@
+{
+    "musics" : [
+      {
+        "id" : 1,
+        "title" : "What Do I Call You",
+        "artist" : "태연",
+        "genre" : ["R&B","소울"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/787/782/81787782_1608015799190_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 2,
+        "title" : "For You",
+        "artist" : "이하이",
+        "genre" : ["R&B","소울"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/777/866/81777866_1608095940216_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 3,
+        "title" : "VVS(Feat.개코 & BewhY)",
+        "artist" : "미란이 & 먼치맨 & Khundi Panda & 머쉬베놈",
+        "genre" : ["랩","힙합"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/743/752/81743752_1605852404684_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 4,
+        "title" : "악역(Feat.이하이 & 사이먼 도미닉)",
+        "artist" : "스윙스",
+        "genre" : ["랩","힙합"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/780/117/81780117_1607664500991_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 5,
+        "title" : "한잔이면 지워질까",
+        "artist" : "황인욱",
+        "genre" : ["발라드","가요"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/787/499/81787499_1608017525618_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 6,
+        "title" : "Dynamite",
+        "artist" : "방탄소년단",
+        "genre" : ["댄스","가요"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/545/399/81545399_1600401677905_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 7,
+        "title" : "밤하늘의 별을(2020)",
+        "artist" : "경서",
+        "genre" : ["인디","가요"],
+        "score" : 9.2,
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/731/300/81731300_1605250194368_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 8,
+        "title" : "내일이 오면 (Feat. 기리보이 & BIG Naughty(서동현))",
+        "artist" : "릴보이",
+        "genre" : ["랩","힙합"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/769/588/81769588_1607068392317_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 9,
+        "title" : "잠이 오질 않네요",
+        "artist" : "장범준",
+        "genre" : ["발라드","가요"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/670/652/81670652_1603444349602_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 10,
+        "title" : "Hate you",
+        "artist" : "백예린",
+        "genre" : ["R&B","소울"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/779/272/81779272_1607582361176_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 11,
+        "title" : "no more tears",
+        "artist" : "kimmineralwater",
+        "genre" : ["랩","힙합"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/793/215/81793215_1608283056125_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 12,
+        "title" : "Lies (Prod. by GXXD)",
+        "artist" : "정진형",
+        "genre" : ["R&B","소울"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/795/719/81795719_1608285770582_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 13,
+        "title" : "붙잡고 싶어도",
+        "artist" : "#안녕",
+        "genre" : ["가요","인디"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/793/392/81793392_1608279545481_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 14,
+        "title" : "섬",
+        "artist" : "선우정아",
+        "genre" : ["드라마","OST"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/793/631/81793631_1608280583431_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 15,
+        "title" : "하얗게",
+        "artist" : "크루셜스타",
+        "genre" : ["인디","가요"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/793/119/81793119_1608277365765_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 16,
+        "title" : "CRY FOR ME",
+        "artist" : "TWICE (트와이스)",
+        "genre" : ["댄스","가요"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/793/527/81793527_1608251272119_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 17,
+        "title" : "예뻤어",
+        "artist" : "데이식스",
+        "genre" : ["락","가요"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/919/666/80919666_1486113823984_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 18,
+        "title" : "별 보러 가자",
+        "artist" : "적재",
+        "genre" : ["인디","가요"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/928/394/80928394_1488965843032_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 19,
+        "title" : "Rain",
+        "artist" : "죠지",
+        "genre" : ["발라드","가요"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/316/251/81316251_1574408175428_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 20,
+        "title" : "우린 봄이 오기 전에",
+        "artist" : "종현",
+        "genre" : ["R&B","소울"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/025/258/81025258_1516672335974_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 21,
+        "title" : "Love You",
+        "artist" : "오왠",
+        "genre" : ["인디","가요"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/483/762/81483762_1592983668235_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      {
+        "id" : 22,
+        "title" : "Make Up (Feat. Crush)",
+        "artist" : "샘김",
+        "genre" : ["R&B","소울"],
+        "thumbnail" : "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/116/699/81116699_1542876072783_1_600x600.JPG/dims/resize/Q_80,0"
+      }
+    ]
+  }

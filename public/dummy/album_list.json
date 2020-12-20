@@ -1,0 +1,354 @@
+{
+  "musicAlbums": [
+    {
+      "id": 1000,
+      "title": "그대라는 시",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/246/905/81246905_1563523038613_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 1,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/246/905/81246905_1563523038613_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "호텔 델루나 OST Part.3 (tvN 토일드라마)",
+      "deinfo" : "2019.07.21 | 베스트/컬렉션 | 2곡",
+      "albumgenre" : "드라마 / OST"
+    },
+    {
+      "id": 1001,
+      "title": "사계",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/175/898/81175898_1553244982697_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 1,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/175/898/81175898_1553244982697_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "사계 (Four Seasons)",
+      "deinfo" : "2019.03.24 | 싱글/EP | 2곡",
+      "albumgenre" : "발라드 / 가요"
+    },
+    {
+      "id": 1002,
+      "title": "불티",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/291/956/81291956_1572245267606_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 1,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/291/956/81291956_1572245267606_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "Purpose - The 2nd Album",
+      "deinfo" : "2019.10.28 | 정규앨범 | 12곡",
+      "albumgenre" : "댄스 / 가요"
+    },
+    {
+      "id": 1003,
+      "title": "I (Feat. 버벌진트)",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/701/713/80701713_1444120236458_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 1,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/701/713/80701713_1444120236458_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "I - The 1st Mini Album",
+      "deinfo" : "2015.10.07 | 싱글/EP | 6곡",
+      "albumgenre" : "발라드 / 가요"
+    },
+    {
+      "id": 1004,
+      "title": "홀로",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/510/320/81510320_1595490795863_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 2,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/510/320/81510320_1595490795863_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "홀로",
+      "deinfo" : "2020.07.23 | 싱글/EP | 1곡",
+      "albumgenre" : "R&B / 소울 / 가요"
+    },
+    {
+      "id": 1005,
+      "title": "원해 (Feat. 팔로알토)",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/743/752/81743752_1605852404684_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 3,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/743/752/81743752_1605852404684_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "쇼미더머니 9 Episode 1",
+      "deinfo" : "2020.11.21 | 기타앨범 | 4곡",
+      "albumgenre" : "가요 / 랩 / 힙합"
+    },
+    {
+      "id": 1006,
+      "title": "ON AIR (Feat. 로꼬 & 박재범 & GRAY)",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/795/028/81795028_1608282218239_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 4,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/795/028/81795028_1608282218239_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "쇼미더머니 9 Final",
+      "deinfo" : "2020.12.19 | 기타앨범 | 10곡",
+      "albumgenre" : "가요 / 랩 / 힙합"
+    },
+    {
+      "id": 1007,
+      "title": "포장마차",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/230/413/81230413_1561007250403_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 5,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/230/413/81230413_1561007250403_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "포장마차",
+      "deinfo" : "2019.06.20 | 싱글/EP | 2곡",
+      "albumgenre" : "발라드 / 가요"
+    },
+    {
+      "id": 1008,
+      "title": "Life Goes On",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/743/755/81743755_1605837129979_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 6,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/743/755/81743755_1605837129979_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "BE",
+      "deinfo" : "2020.11.20 | 싱글/EP | 8곡",
+      "albumgenre" : " 가요 / 랩 / 힙합"
+    },
+    {
+      "id": 1009,
+      "title": "수고했어요 (Vocalplay Ver.)",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/339/479/81339479_1577435573529_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 7,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/339/479/81339479_1577435573529_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "보컬플레이 : 캠퍼스 뮤직 올림피아드 (FINAL)",
+      "deinfo" : "2019.12.29 | | 1곡",
+      "albumgenre" : "락 / 가요"
+    },
+    {
+      "id": 1010,
+      "title": "기도",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/414/579/81414579_1586327593687_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 8,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/414/579/81414579_1586327593687_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "기도",
+      "deinfo" : "2020.04.08 | 싱글/EP | 1곡",
+      "albumgenre" : " 랩 / 힙합 / 가요"
+    },
+    {
+      "id": 1011,
+      "title": "당신과는 천천히",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/175/488/81175488_1553152297646_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 9,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/175/488/81175488_1553152297646_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "장범준 3집",
+      "deinfo" : "2019.03.21 | 정규앨범 | 8곡",
+      "albumgenre" : "락 / 가요"
+    },
+    {
+      "id": 1012,
+      "title": "그건 아마 우리의 잘못은 아닐 거야",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/173/794/81173794_1552885289680_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 10,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/173/794/81173794_1552885289680_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "Our love is great",
+      "deinfo" : "2019.03.18 | 싱글/EP | 7곡",
+      "albumgenre" : "R&B / 소울 / 가요"
+    },
+    {
+      "id": 1013,
+      "title": "i miss ya more than i thought that i could",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/372/873/81372873_1582768207333_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 11,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/372/873/81372873_1582768207333_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "i miss ya more than i thought that i could",
+      "deinfo" : "2020.02.28 | 싱글/EP | 1곡",
+      "albumgenre" : "R&B / 소울 / 가요"
+    },
+    {
+      "id": 1014,
+      "title": "NEW DRUG (Prod. by GXXD)",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/317/267/81317267_1574730217656_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 12,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/317/267/81317267_1574730217656_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "TRACE",
+      "deinfo" : "2019.11.26 | 싱글/EP | 3곡",
+      "albumgenre" : "인디 / 가요"
+    },
+    {
+      "id": 1015,
+      "title": "숨 쉴 수 없어 (Prod. by 영화처럼)",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/369/050/81369050_1582271419298_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 13,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/369/050/81369050_1582271419298_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "숨 쉴 수 없어",
+      "deinfo" : "2020.02.22 | 싱글/EP | 2곡",
+      "albumgenre" : "인디 / 가요"
+    },
+    {
+      "id": 1016,
+      "title": "도망가자 (Run With Me)",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/329/550/81329550_1576130109285_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 14,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/329/550/81329550_1576130109285_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "Serenade",
+      "deinfo" : "2019.12.12 | 정규앨범 | 16곡",
+      "albumgenre" : "R&B / 소울 / 가요"
+    },
+    {
+      "id": 1017,
+      "title": "너의 밤엔",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/731/792/81731792_1605595648162_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 15,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/731/792/81731792_1605595648162_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "이성과 감성",
+      "deinfo" : "2020.11.17 | 싱글/EP | 4곡",
+      "albumgenre" : "인디 / 가요"
+    },
+    {
+      "id": 1018,
+      "title": "Heart Shaker",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/009/024/81009024_1512973485015_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 16,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/009/024/81009024_1512973485015_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "Merry & Happy",
+      "deinfo" : "2017.12.11 | 정규앨범 | 15곡",
+      "albumgenre" : "댄스 / 가요"
+    },
+    {
+      "id": 1019,
+      "title": "그렇더라고요",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/009/247/81009247_1512524110061_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 17,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/009/247/81009247_1512524110061_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "MOONRISE",
+      "deinfo" : "2017.12.06 | 정규앨범 | 18곡",
+      "albumgenre" : "락 / 가요"
+    },
+    {
+      "id": 1020,
+      "title": "잘 지내",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/314/791/81314791_1574405207085_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 18,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/314/791/81314791_1574405207085_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "하루",
+      "deinfo" : "2019.11.22 | 싱글/EP | 2곡",
+      "albumgenre" : "인디 / 가요"
+    },
+    {
+      "id": 1021,
+      "title": "바라봐줘요",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/161/110/81161110_1550719895206_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 19,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/161/110/81161110_1550719895206_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "바라봐줘요",
+      "deinfo" : "2019.02.21 | 싱글/EP | 1곡",
+      "albumgenre" : "인디 / 가요"
+    },
+    {
+      "id": 1022,
+      "title": "하루의 끝",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/691/687/80691687_1442413873908_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 20,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/691/687/80691687_1442413873908_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "종현 소품집 '이야기 Op.1'",
+      "deinfo" : "2015.09.17 | 싱글/EP | 9곡",
+      "albumgenre" : "발라드 / 가요"
+    },
+    {
+      "id": 1023,
+      "title": "오늘",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/816/117/80816117_1464056513146_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 21,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/816/117/80816117_1464056513146_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "When I Begin",
+      "deinfo" : "2016.05.24 | 싱글/EP | 5곡",
+      "albumgenre" : "인디 / 가요"
+    },
+    {
+      "id": 1024,
+      "title": "Like a Fool",
+      "thumbnailImage": {
+        "url": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/407/382/81407382_1585802756636_1_600x600.JPG/dims/resize/Q_80,0"
+      },
+      "musicId": 22,
+      "images": [
+        "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/816/117/80816117_1464056513146_1_600x600.JPG/dims/resize/Q_80,0"
+      ],
+      "albumname": "Like a Fool",
+      "deinfo" : "2020.04.02 | 싱글/EP | 1곡",
+      "albumgenre" : "인디 / 가요"
+    }
+  ]
+}
