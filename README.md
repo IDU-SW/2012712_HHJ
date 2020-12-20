@@ -1,4 +1,4 @@
-#React Project
+# React Project
 React를 사용한 음악 서비스
 
 ## 프로젝트 설명
