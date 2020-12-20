@@ -1,4 +1,5 @@
-React Project
+#React Project
+React를 사용한 음악 서비스
 
 ## 프로젝트 설명
 지니, 멜론, 벅스와 같이 음악 차트, 신곡, 추천 등을 보여줌
